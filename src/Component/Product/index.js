@@ -1,0 +1,1 @@
+export {defulte} from './Product'
